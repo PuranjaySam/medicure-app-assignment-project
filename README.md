@@ -61,7 +61,7 @@ When a developer pushes the updated code to the GIT master branch:
 5. The Contact page should be tested using a test automation tool using Selenium.
 6. Upon successful testing, Ansible should deploy the application to the prd environment.
 
-This process should be automatic and triggered by a push to the GitHub master branch.
+This process should be automatic and triggered by a push to the GitHub master branch. Good Luck !
 
 ## Application source code is available at the following link
 [GitHub-MedicureApp-Link](https://github.com/shubhamkushwah123/medicure-app.git)
